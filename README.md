@@ -1,5 +1,5 @@
 # test-pr
 
-hhh
+feat2: squash
 
 feat1
